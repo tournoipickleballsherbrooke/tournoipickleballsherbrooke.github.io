@@ -3,9 +3,7 @@ author:
   name: James William Halde
   email: tournoipickleballsherbrooke@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Merci à Tom Preston-Werner, créateur de Jekyll et de GitHub pour m'avoir permit de construire ce site. 
-  Allez lire son [blog](https://tom.preston-werner.com/), il est très intéressent.
-  <a href="https://www.w3schools.com">Visit W3Schools</a>
+  Merci à Tom Preston-Werner, créateur de Jekyll et de GitHub, lisez son blog!
 google_analytics: G-BVW1ZYSWD2
 disqus:
   shortname: tournoipickleballsherbrooke
@@ -19,8 +17,8 @@ minima:
 
   # generate social links in footer
   social_links:
-     twitter: jekyllrb
-     github:  jekyll
+     twitter: mojombo
+     github:  mojombo
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -33,7 +31,7 @@ minima:
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
-    # microdotblog: jekyll
+    microdotblog: http://tom.preston-werner.com
     # keybase: jekyll
 
     # Mastodon instances
