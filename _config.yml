@@ -54,7 +54,8 @@ header_pages:
  - about.md
 
 # Build settings
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+theme: jekyll-theme-hacker
 
 plugins:
  - jekyll-feed
