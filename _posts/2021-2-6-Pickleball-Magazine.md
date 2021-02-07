@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pickleball Magazine Hack
+title: Pickleball Magazine
 categories: misc
 ---
 
