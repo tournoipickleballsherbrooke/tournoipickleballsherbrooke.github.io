@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Pasionné de Pickleball et Administrateur Système
+James William Halde est un pasionné de Pickleball et Administrateur de Système informatique.
