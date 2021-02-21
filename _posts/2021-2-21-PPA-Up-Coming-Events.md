@@ -20,7 +20,7 @@ categories: Pickleball
 
 
 
-[Calendrier Complet PPA Tours 2021]: https://www.ppatour.com/2021-season/
+[Calendrier Complet PPA Tours 2021](https://www.ppatour.com/2021-season/)
 
 
 
