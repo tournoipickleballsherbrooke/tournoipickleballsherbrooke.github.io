@@ -16,11 +16,11 @@ categories: Pickleball
 
 [MAY 20 - 23: Atlanta Georgia Open PPA](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3361)
 
-[JUNE 4 - 6: Indianapolis Pickleball Open APP]()
+JUNE 4 - 6: Indianapolis Pickleball Open APP
 
-[JUNE 10 - 13: Los Angeles Pickleball Open - $35K (Hosted by Kim Poppa Jagd & Morgan Evans)]()
+JUNE 10 - 13: Los Angeles Pickleball Open - $35K (Hosted by Kim Poppa Jagd & Morgan Evans)
 
-[JUNE 16 - 20: SoCal Classic Pickleball Open]()
+JUNE 16 - 20: SoCal Classic Pickleball Open
 
 [JUNE 24 - 27: Orange County Cup PPA](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4566)
 
