@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pickleball Magazine
-categories: misc
+categories: pickleball
 ---
 
 Il est possible de trouvé les liens du magazine "Pickleball Magazine" en faisant une recherche google :
