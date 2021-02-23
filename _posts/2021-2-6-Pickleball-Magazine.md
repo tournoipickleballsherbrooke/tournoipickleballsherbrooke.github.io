@@ -4,11 +4,7 @@ title: Pickleball Magazine
 categories: pickleball
 ---
 
-Il est possible de trouvé les liens du magazine "Pickleball Magazine" en faisant une recherche google :
-
-site:view.joomag.com pickleball-magazine
-
-J'ai regroupé les liens sur cette page par année de publication.
+[![PBM.webp](/images/PBM.webp)](https://www.pickleballmagazine.com/)
 
 2021
 
