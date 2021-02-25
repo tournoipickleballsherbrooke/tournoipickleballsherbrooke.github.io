@@ -49,9 +49,9 @@ categories: pickleball
 
 2016
 
-[Décembre](https://view.joomag.com/pickleball-magazine-1-6/0650481001481739302?page=14)
+[Décembre](https://joom.ag/zTXW)
 [Septembre/Octobre](https://view.joomag.com/pickleball-magazine-1-5/0349859001475158129)
-[Juillet/Août](https://view.joomag.com/pickleball-magazine-1-4/0979031001469554593?page=36)
+[Juillet/Août](https://joom.ag/KjgQ)
 [Juin](https://view.joomag.com/pickleball-magazine-1-3/0735872001464267244)
 [Mars](https://view.joomag.com/pickleball-magazine-1-2/0844916001458661443)
 [Janvier](https://view.joomag.com/pickleball-magazine-1-1/0710190001452711201?short)
