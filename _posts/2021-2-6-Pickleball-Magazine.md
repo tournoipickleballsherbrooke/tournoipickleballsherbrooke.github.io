@@ -24,7 +24,7 @@ categories: pickleball
 
 [Novembre/Décembre](https://view.joomag.com/pickleball-magazine-4-6-wd/0707719001574431789?short)
 [Septembre/Octobre](https://view.joomag.com/pickleball-magazine-4-5/0883864001568992442)
-[Juillet/Août](https://view.joomag.com/pickleball-magazine-4-4/0291512001563549220/p70?short)
+[Juillet/Août](https://joom.ag/7Ede)
 [Mai/Juin](https://view.joomag.com/pickleball-magazine-4-3/0105769001558461169?short)
 [Mars/Avril](https://view.joomag.com/pickleball-magazine-4-2/0247204001553106267?short)
 [Janvier/Février](https://view.joomag.com/pickleball-magazine-4-1/0799418001548175725?short)
@@ -43,7 +43,7 @@ categories: pickleball
 [Novembre/Décembre](https://view.joomag.com/pickleball-magazine-2-6/0115552001512155448?page=59)
 [Septembre/Octobre](https://view.joomag.com/pickleball-magazine-2-5/0913059001505478424?page=12)
 [Juillet/Août](https://view.joomag.com/pickleball-magazine-2-4/0089459001501245770?short&)
-[Mai/Juin](https://view.joomag.com/pickleball-magazine-2-3/0195379001496942362?page=49)
+[Mai/Juin](https://joom.ag/qsOW)
 [Mars/Avril](https://view.joomag.com/pickleball-magazine-2-2/0893870001492624997?short&)
 [Janvier/Février](https://view.joomag.com/pickleball-magazine-2-1/0403293001485959710)
 
