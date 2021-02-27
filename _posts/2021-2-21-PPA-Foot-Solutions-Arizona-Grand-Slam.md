@@ -11,7 +11,9 @@ Watch the first tournament of the 2021 PPA Tour from the JW Marriott Desert Ridg
     <img src="/images/mesa-grand-slam_fs.png" alt="ppatour.com" width="200"/>
 </a>
 
-[Pickleball Tournament Link](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4237) - [Bracket](https://www.pickleballtournaments.com/schedule.pl?tid=4237)
+[Pickleball Tournament Link](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4237)
+
+[Bracket](https://www.pickleballtournaments.com/schedule.pl?tid=4237)
 
 [Women Singles Pro Final - Simone Jardim vs Michelle Esquivel](https://www.youtube.com/watch?v=PSj_cLr3uZo)
 
