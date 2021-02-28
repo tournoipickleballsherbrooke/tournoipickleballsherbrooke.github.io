@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Up Coming Events 2021
+title: 2021 Pro Tournament
 categories: Pickleball
 ---
 
