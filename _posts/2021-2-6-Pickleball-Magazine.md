@@ -4,7 +4,7 @@ title: Pickleball Magazine
 categories: pickleball
 ---
 
-[![PBM.webp](/images/PBM.webp)](https://www.pickleballmagazine.com/s=200)
+<a href="https://www.pickleballmagazine.com/"><img src="/images/PBM.webp" width="210"/><a>
 
 2021
 
