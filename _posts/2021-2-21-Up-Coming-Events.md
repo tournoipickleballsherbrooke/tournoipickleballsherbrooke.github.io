@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liste des tournois Pro 2021
+title: Liste des tournois pro en 2021
 categories: Pickleball
 ---
 
