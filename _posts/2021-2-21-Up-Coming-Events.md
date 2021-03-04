@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2021 Tournois Pro
+title: Liste des tournois Pro 2021
 categories: Pickleball
 ---
 
-|Date|2021 Tournoi Pro|
+|Date|Tournoi|
 | Février 16-21 | [Foot Solutions Arizona Grand Slam](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4237) 
 | Février 26-28 | [Simone Jardim PPA Florida Grand Slam](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4649)
 | Mars 10-14 | [PPA Red Rock Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4584)|
