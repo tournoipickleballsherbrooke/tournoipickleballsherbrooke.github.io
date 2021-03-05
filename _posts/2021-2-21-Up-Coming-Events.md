@@ -5,6 +5,7 @@ categories: Pickleball
 ---
 
 |Date|Tournoi|
+| Janvier 7-10 | [Punta Gorda Pickleball Open - $40K (Hosted by Kyle Yates and Steve Kennedy)](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3580) 
 | Février 16-21 | [Foot Solutions Arizona Grand Slam](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4237) 
 | Février 26-28 | [Simone Jardim PPA Florida Grand Slam](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4649)
 | Mars 10-14 | [PPA Red Rock Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4584)|
