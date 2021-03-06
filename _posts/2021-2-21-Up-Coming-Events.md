@@ -11,6 +11,7 @@ categories: Pickleball
 | Mars 10-14 | [PPA Red Rock Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4584)|
 | Mars 18-21 | [APP Delray Beach Pickleball Open - $60K (Hosted by Anna Leigh Waters, Steve Kennedy and Leigh Waters)](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4651)
 |Avril 2-5| [PPA Newport Beach Doubles Shootout](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4593)
+|Avril 17-24|[Minto US Open Pickleball Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3679)
 |Mai 13-16| [APP Cincinnati Pickleball Open - $30K (Hosted by Michelle Esquivel and Jay Devilliers)](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4776)
 |Mai 20-23| [Atlanta Georgia Open PPA](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3361)
 |Juin 4-6| Indianapolis Pickleball Open APP
