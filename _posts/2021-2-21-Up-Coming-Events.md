@@ -30,6 +30,7 @@ categories: Pickleball
 | 21 au 26 Septembre| [PPA Las Vegas Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4658)|Las Vegas, NV
 | 10 au 16 Septembre| [PPA Texas Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4601)|Dallas, TX
 | 21 au 24 Octobre| [PPA Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4602)|Las Vegas, NV
+| 6 au 13 Novembre | [Margaritaville USA Pickleball National Championships](https://usapickleballnationalchampionships.com/event-info/competition-events/) |Indian Wells, CA
 | 9 au 12 Décembre| [PPA Arizona Masters](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4594)|Phoenix, AZ
 | 9 au 12 Décembre| [APP World Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3950)|Port St. Lucie, FL
 
