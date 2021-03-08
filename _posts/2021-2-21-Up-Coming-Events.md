@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tournois majeurs
+title: Calendrier des tournois majeurs
 categories: Pickleball
 ---
 
