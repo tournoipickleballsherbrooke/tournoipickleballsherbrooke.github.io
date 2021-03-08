@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pickleball Magazine
+title: Consulter la revue "Pickleball Magazine"
 categories: pickleball
 ---
 
