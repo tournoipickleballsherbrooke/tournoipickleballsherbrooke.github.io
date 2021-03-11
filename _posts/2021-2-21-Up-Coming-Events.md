@@ -22,6 +22,7 @@ categories: Pickleball
 | 7 au 11 Juillet| [APP Beer City Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3581)|Grand Rapids, MI
 | 29 Juillet au 1er Août| [APP Pacific Northwest Classic](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3602)|Bend, OR
 | 5 au 8 Août| [PPA Takeya Showcase](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4603)|Newport Beach, CA
+| 10 au 15 Août | [Pickleball Canada National Championship](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4389) |Red Deer, AB
 | 10 au 16 Août| [PPA Rocky Mountain Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4419)|Denver, CO
 | 12 au 15 Août| APP New Jersey Open|Manalapan, NJ
 | 1er au 6 Septembre| [PPA New Mexico Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4552)|Albuquerque, NM
