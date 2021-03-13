@@ -38,6 +38,7 @@ categories: Pickleball
             </div>
         </td>
     </tr>
+    <!--
     <tr>
         <td>
             <div style="text-align: center"><img src="/images/play.png" width="25"/>
@@ -72,6 +73,7 @@ categories: Pickleball
             </div>
         </td>
     </tr>
+    -->
 </table>
 
 #### Retards de pluie à St. George, Utah pour le Red Rock Open
