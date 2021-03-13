@@ -79,3 +79,7 @@ categories: Pickleball
 #### Retards de pluie à St. George, Utah pour le Red Rock Open
 Les horaires de début du vendredi 12 mars ont déménagé à 15:00 h.
 Les doubles pro hommes et femmes continuent demain à partir de 14 h jusqu'à 20:30 h ! Le streaming est sur Watch ESPN, Facebook et <a href="https://www.youtube.com/c/PPAtour/videos">YouTube !</a>
+
+<br>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FOfficialPPATour%2Fvideos%2F481716316508633%2F&show_text=false&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
