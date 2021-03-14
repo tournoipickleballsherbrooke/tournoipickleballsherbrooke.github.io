@@ -4,7 +4,24 @@ title: PPA Red Rock Open - St George, UT
 categories: Pickleball
 ---
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FOfficialPPATour%2Fvideos%2F481716316508633%2F&show_text=false&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<style type="text/css">
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+<div class="videoWrapper">
+    <iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FOfficialPPATour%2Fvideos%2F481716316508633%2F&show_text=false&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
 
 <br>
 
@@ -39,7 +56,7 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center">
-            <img src="/images/bracket.png" width="25"/><a href="">Bracket Mixte</a>
+            <img src="/images/bracket.png" width="25"/><a href="https://www.pickleballtournaments.com/Tournaments/UT/2021_RedRock/MXDO_76.htm">Bracket Mixte</a>
             </div>
         </td>
     </tr>
