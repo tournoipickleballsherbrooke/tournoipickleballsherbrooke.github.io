@@ -4,7 +4,9 @@ title: Foot Solutions Arizona Grand Slam - Phoenix, AZ
 categories: PicklebaLL
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWi8bjed2XM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uWi8bjed2XM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br>
 
