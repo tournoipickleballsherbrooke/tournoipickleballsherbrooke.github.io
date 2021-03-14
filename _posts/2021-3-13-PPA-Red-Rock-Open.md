@@ -107,5 +107,5 @@ Ben Johns/Dekel Bar vs Daniel De La Rosa/Pesa Teoni
 
 >Daniel de la Rosa (né le 4 juillet 1993) est un joueur de racquetball mexicain. De La Rosa est l'actuel champion du monde en double masculin. Il a remporté sa première tournée internationale de racquetball (IRT) en décembre 2014, lorsqu'il a remporté l'Open du New Jersey 2014. Il rejoint Alvaro Beltran en tant que seul joueur mexicain à remporter un événement IRT TIER 1. De La Rosa était classé 4e de l'IRT à l'issue de la saison 2017-18, sa sixième saison dans le top 10.
 <div class="videoWrapper">
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/3zlG9PBS4Nc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/3zlG9PBS4Nc?start=9826" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
