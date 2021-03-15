@@ -57,8 +57,8 @@ categories: Pickleball
             </div>
         </td>
         <td>
-            <div style="text-align: center"><img src="/images/play.png" width="25"/>
-                <a href="">Médaille d'or Mixte Simone Jardim/Ben Johns vs Jessie Irvine/Jeffrey Warnick</a>
+            <div style="text-align: center">
+                Médaille d'or Mixte Simone Jardim/Ben Johns vs Jessie Irvine/Jeffrey Warnick
             </div>
         </td>
     </tr><!--
