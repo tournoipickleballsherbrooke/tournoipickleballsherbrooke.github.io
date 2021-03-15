@@ -53,12 +53,12 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center"><img src="/images/play.png" width="25"/>
-                <a href="https://www.youtube.com/watch?v=3zlG9PBS4Nc&t=18225s">Médaille d'or Femmes Simone Jardim,/Lucy Kovalova vs Callie Smith/Irina Tereschenko</a>
+                <a href="https://www.youtube.com/watch?v=3zlG9PBS4Nc&t=18225s">Médaille d'or Femmes Simone Jardim/Lucy Kovalova vs Callie Smith/Irina Tereschenko</a>
             </div>
         </td>
         <td>
             <div style="text-align: center"><img src="/images/play.png" width="25"/>
-                <a href="">Médaille d'or Mixte</a>
+                <a href="">Médaille d'or Mixte Simone Jardim/Ben Johns vs Jessie Irvine/Jeffrey Warnick</a>
             </div>
         </td>
     </tr><!--
@@ -108,4 +108,22 @@ Ben Johns/Dekel Bar vs Daniel De La Rosa/Pesa Teoni
 >Daniel de la Rosa (né le 4 juillet 1993) est un joueur de racquetball mexicain. De La Rosa est l'actuel champion du monde en double masculin. Il a remporté sa première tournée internationale de racquetball (IRT) en décembre 2014, lorsqu'il a remporté l'Open du New Jersey 2014. Il rejoint Alvaro Beltran en tant que seul joueur mexicain à remporter un événement IRT TIER 1. De La Rosa était classé 4e de l'IRT à l'issue de la saison 2017-18, sa sixième saison dans le top 10.
 <div class="videoWrapper">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/3zlG9PBS4Nc?start=9826" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br>
+
+#### Doubles Hommes Pro médaille de Bronze
+Matt Wright/Jeffrey Warnick v Tyson McGuffin/Callan Dawson 
+
+<div class="videoWrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmatt.mayfield.98%2Fvideos%2F10224963388847859%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
+
+<br>
+
+#### Doubles Hommes Pro Winners Bracket Semifinal
+Matt Wright/Jeffrey Warnick v Kyle Yates/Tyler Loong
+
+<div class="videoWrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmatt.mayfield.98%2Fvideos%2F10224961324356248%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
