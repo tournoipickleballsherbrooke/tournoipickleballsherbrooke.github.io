@@ -1,6 +1,6 @@
 ---
 layout: post
-title: APP Delray Beach Pickleball Open @ Delray Beach, Floride du 18 au 21 mars 2021
+title: APP Delray Beach Pickleball Open @ Delray Beach, Florida du 18 au 21 mars 2021
 categories: Pickleball
 ---
 <!-- Code pour les posts facebook -->
