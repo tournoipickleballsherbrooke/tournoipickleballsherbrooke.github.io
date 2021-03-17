@@ -17,12 +17,12 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <a href="https://apptour.org/"><img src="/images/DBPO.png" width="180"/></a>
+                <a href="https://apptour.org/"><img src="/images/DBPO.png" width="280"/></a>
             </div>
         </td>
         <td> 
             <div style="text-align: center">
-                <a href="https://www.youtube.com/channel/UCzp8-zq6Qpd3g1ykc8Tj9BA"><img src="/images/youtube-live-stream.png" width="80"/></a>
+                <a href="https://www.youtube.com/channel/UCzp8-zq6Qpd3g1ykc8Tj9BA"><img src="/images/youtube-live-stream.png" width="120"/></a>
             </div>
         </td>
         <td>
