@@ -118,9 +118,17 @@ categories: Pickleball
     </tr>-->
 </table>
 
+#### L'affiche officielle du tournoi de pickleball de Delray Beach! 
+La deuxième étape de la tournée de l'APP 2021 est l'Open de pickleball de 60k Delray Beach, organisé par Leigh et Anna Leigh Waters et Steve Kennedy.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Official Delray Beach Pickleball Tournament Poster! The second stop on the 2021 APP Tour is the Sold Out 60k Delray Beach Pickleball Open, Hosted by Leigh &amp; Anna Leigh Waters &amp; Steve Kennedy<a href="https://twitter.com/hashtag/thisispickleball?src=hash&amp;ref_src=twsrc%5Etfw">#thisispickleball</a> <a href="https://twitter.com/hashtag/apptour?src=hash&amp;ref_src=twsrc%5Etfw">#apptour</a> <a href="https://twitter.com/hashtag/pickleball?src=hash&amp;ref_src=twsrc%5Etfw">#pickleball</a> <a href="https://twitter.com/hashtag/InsideWorldPickleball?src=hash&amp;ref_src=twsrc%5Etfw">#InsideWorldPickleball</a> <a href="https://twitter.com/goodsportsfoss?ref_src=twsrc%5Etfw">@goodsportsfoss</a> <a href="https://t.co/GMfY7eCff5">pic.twitter.com/GMfY7eCff5</a></p>&mdash; APPTour (@kenapptourorg1) <a href="https://twitter.com/kenapptourorg1/status/1371194678415069191?ref_src=twsrc%5Etfw">March 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 <div class="fb-post" data-href="https://www.facebook.com/theapptour/photos/a.137982294324937/279803423476156/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/theapptour/photos/a.137982294324937/279803423476156/?type=3" class="fb-xfbml-parse-ignore"><p>The 2021 APP Tour&#039;s Delray Beach Pickleball Open, Hosted by Paddletek&#039;s Leigh &amp; Anna Leigh Waters &amp; Engage Pickleball&#039;s...</p>Publiée par <a href="https://www.facebook.com/theapptour/">APP Tour</a> sur&nbsp;<a href="https://www.facebook.com/theapptour/photos/a.137982294324937/279803423476156/?type=3">Vendredi 12 février 2021</a></blockquote></div>
 
 <br>
+
+#### Qui est prêt pour de l'action de Pickleball Pro dans le sud de la Floride au APP Delray Beach Tennis Center la semaine prochaine?
 
 <div class="fb-post" data-href="https://www.facebook.com/theapptour/posts/296701701786328" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/theapptour/posts/296701701786328" class="fb-xfbml-parse-ignore">Publiée par <a href="https://www.facebook.com/theapptour/">APP Tour</a> sur&nbsp;<a href="https://www.facebook.com/theapptour/posts/296701701786328">Vendredi 12 mars 2021</a></blockquote></div>
