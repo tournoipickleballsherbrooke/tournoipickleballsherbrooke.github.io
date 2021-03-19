@@ -6,6 +6,7 @@ categories: Pickleball
 
 |2021|Tournoi|Ville
 | 7 au 10 Janvier | [APP Punta Gorda Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3580)|Punta Gorda, FL
+| 3 au 7 Février | [Pickleball Global 2020 World Pickleball Championship](https://pickleball.global/compete/2020-world-pickleball-championship/about) |Punta Gorda, Florida 
 | 16 au 21 Février | [PPA Foot Solutions Arizona Grand Slam](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4237)|Phoenix, AZ
 | 26 au 28 Février | [PPA Simone Jardim Florida Grand Slam](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4649)|Tampa, FL
 | 10 au 14 Mars | [PPA Red Rock Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4584)|St George, UT
