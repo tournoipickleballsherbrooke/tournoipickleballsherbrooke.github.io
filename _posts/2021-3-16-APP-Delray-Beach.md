@@ -156,5 +156,7 @@ Bronze:	Rachel Koral / Hercilio Cabieses
 
 <img src="/images/ernesto_delray_mixte.jpg"/>
 
-<br>
 
+<div class="videoWrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcourtney.reid.142%2Fvideos%2F10217656698921960%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
