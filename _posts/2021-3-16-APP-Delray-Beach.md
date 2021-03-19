@@ -130,5 +130,18 @@ La deuxième étape de la tournée de l'APP 2021 est l'Open de pickleball de 60k
 <br>
 
 #### Qui est prêt pour de l'action de Pickleball Pro dans le sud de la Floride au APP Delray Beach Tennis Center la semaine prochaine?
-
+Le court centrale en préparation.
 <div class="fb-post" data-href="https://www.facebook.com/theapptour/posts/296701701786328" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/theapptour/posts/296701701786328" class="fb-xfbml-parse-ignore">Publiée par <a href="https://www.facebook.com/theapptour/">APP Tour</a> sur&nbsp;<a href="https://www.facebook.com/theapptour/posts/296701701786328">Vendredi 12 mars 2021</a></blockquote></div>
+
+# Final Simple 
+Simone Jardim vs Catherine Parenteau
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=313" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+Ben Johns vs Zane Navratil
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=5158" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
