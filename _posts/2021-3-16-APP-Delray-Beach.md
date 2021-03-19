@@ -139,9 +139,22 @@ Simone Jardim vs Catherine Parenteau
 <div class="videoWrapper">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=313" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<br>
+
 Ben Johns vs Zane Navratil
 
 <div class="videoWrapper">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=5158" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
+
+# Mixte 5.0 19+
+Gold:	Jorja Johnson / Ernesto Fajardo
+
+Silver:	Nancy Henderson / Juan Arraya
+
+Bronze:	Rachel Koral / Hercilio Cabieses
+
+<img src="/images/ernesto_delray_mixte.jpg"/>
+
+<br>
+
