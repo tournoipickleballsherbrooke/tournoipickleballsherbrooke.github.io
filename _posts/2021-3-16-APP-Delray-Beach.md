@@ -81,42 +81,10 @@ categories: Pickleball
             <a href=""><img src="/images/bracket.png" width="60"/></a>
             </div>
         </td>
-    </tr><!--
-    <tr>
-        <td>
-            <div style="text-align: center"><img src="/images/play.png" width="25"/>
-                <a href="https://www.youtube.com/watch?v=3zlG9PBS4Nc&t=22253s">Médaille d'or Hommes Ben Johns/Dekel Bar vs Jeff Warnick/Matt Wright</a>
-            </div>
-        </td>
-        <td>
-            <div style="text-align: center"><img src="/images/play.png" width="25"/>
-                <a href="https://www.youtube.com/watch?v=3zlG9PBS4Nc&t=18225s">Médaille d'or Femmes Simone Jardim/Lucy Kovalova vs Callie Smith/Irina Tereschenko</a>
-            </div>
-        </td>
-        <td>
-            <div style="text-align: center">
-                Médaille d'or Mixte Simone Jardim/Ben Johns vs Jessie Irvine/Jeffrey Warnick
-            </div>
-        </td>
     </tr>
-    <tr>
-        <td>
-            <div style="text-align: center">
-                vs 
-            </div>
-        </td>
-        <td>
-            <div style="text-align: center">
-                vs 
-            </div>
-        </td>
-        <td>
-            <div style="text-align: center">
-                 vs 
-            </div>
-        </td>
-    </tr>-->
 </table>
+
+[Main Court Assignments](https://www.pickleballtournaments.com/nd_oncourts.pl?tid=4651&venue=Main)
 
 #### L'affiche officielle du tournoi de pickleball de Delray Beach! 
 La deuxième étape de la tournée de l'APP 2021 est l'Open de pickleball de 60k Delray Beach, organisé par Leigh et Anna Leigh Waters et Steve Kennedy.
