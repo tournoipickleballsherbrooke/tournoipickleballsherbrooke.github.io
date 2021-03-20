@@ -68,17 +68,17 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <img src="/images/bracket.png" width="60"/><a href=""></a>
+                <a href="https://www.pickleballtournaments.com/Tournaments/FL/2021_DELRAYBEACH_4651/MDP_29.htm"><img src="/images/bracket.png" width="60"/></a>
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            <img src="/images/bracket.png" width="60"/><a href=""></a>
+            <a href="https://www.pickleballtournaments.com/Tournaments/FL/2021_DELRAYBEACH_4651/WDP_28.htm"><img src="/images/bracket.png" width="60"/></a>
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            <img src="/images/bracket.png" width="60"/><a href=""></a>
+            <a href=""><img src="/images/bracket.png" width="60"/></a>
             </div>
         </td>
     </tr><!--
@@ -140,14 +140,18 @@ Simone Jardim vs Catherine Parenteau
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=313" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Ben Johns vs Zane Navratil
+<br>
 
+Ben Johns vs Zane Navratil
 <div class="videoWrapper">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=5158" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 
-# Mixte 5.0 19+
+[APP Delray Beach Open YouTube Playlist Match List](https://www.facebook.com/notes/pickleball-live-streaming-network/app-delray-beach-open-youtube-playlist-match-list/1673773096143943/)
+
+
+# Vendredi 19 mars, Mixte 5.0 19+
 Gold:	Jorja Johnson / Ernesto Fajardo
 
 Silver:	Nancy Henderson / Juan Arraya
@@ -160,3 +164,10 @@ Bronze:	Rachel Koral / Hercilio Cabieses
 <div class="videoWrapper">
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcourtney.reid.142%2Fvideos%2F10217656698921960%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
+
+<br>
+
+# Samedi 20 mars, Men's & Women's Pro Doubles Day
+
+<div class="fb-post" data-href="https://www.facebook.com/theapptour/photos/a.137982294324937/301116821344816/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/theapptour/photos/a.137982294324937/301116821344816/?type=3" class="fb-xfbml-parse-ignore"><p>Men&#039;s &amp; Women&#039;s Pro Doubles Day, Tomorrow at the APP Delray Beach Pickleball Open!! 
+Watch &amp; Subscribe on APPTV! ➡️...</p>Publié par <a href="https://www.facebook.com/theapptour/">APP Tour</a> sur&nbsp;<a href="https://www.facebook.com/theapptour/photos/a.137982294324937/301116821344816/?type=3">Vendredi 19 mars 2021</a></blockquote></div>
