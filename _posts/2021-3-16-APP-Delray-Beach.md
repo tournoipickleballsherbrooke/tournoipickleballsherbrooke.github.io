@@ -139,3 +139,17 @@ Bronze:	Rachel Koral / Hercilio Cabieses
 
 <div class="fb-post" data-href="https://www.facebook.com/theapptour/photos/a.137982294324937/301116821344816/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/theapptour/photos/a.137982294324937/301116821344816/?type=3" class="fb-xfbml-parse-ignore"><p>Men&#039;s &amp; Women&#039;s Pro Doubles Day, Tomorrow at the APP Delray Beach Pickleball Open!! 
 Watch &amp; Subscribe on APPTV! ➡️...</p>Publié par <a href="https://www.facebook.com/theapptour/">APP Tour</a> sur&nbsp;<a href="https://www.facebook.com/theapptour/photos/a.137982294324937/301116821344816/?type=3">Vendredi 19 mars 2021</a></blockquote></div>
+
+# Final Double 
+Jay Devilliers/Patrick Smith vs Ben Johns/Collin Johns
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Jp6tjZ3jtIE?start=10745" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+
+Leigh Waters/Anna Leigh Waters vs Simone Jardim vs Catherine Parenteau
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Jp6tjZ3jtIE?start=01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
