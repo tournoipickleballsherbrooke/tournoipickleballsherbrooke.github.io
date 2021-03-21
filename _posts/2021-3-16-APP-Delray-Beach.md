@@ -78,7 +78,7 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center">
-            <a href=""><img src="/images/bracket.png" width="60"/></a>
+            <a href="https://www.pickleballtournaments.com/Tournaments/FL/2021_DELRAYBEACH_4651/MXDP_34.htm"><img src="/images/bracket.png" width="60"/></a>
             </div>
         </td>
     </tr>
