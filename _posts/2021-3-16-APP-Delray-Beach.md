@@ -148,8 +148,3 @@ Jay Devilliers/Patrick Smith vs Ben Johns/Collin Johns
 </div>
 <br>
 
-Leigh Waters/Anna Leigh Waters vs Simone Jardim vs Catherine Parenteau
-
-<div class="videoWrapper">
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Jp6tjZ3jtIE?start=01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
