@@ -86,6 +86,8 @@ categories: Pickleball
 
 [Main Court Assignments](https://www.pickleballtournaments.com/nd_oncourts.pl?tid=4651&venue=Main)
 
+[APP Delray Beach Open YouTube Playlist Match List](https://www.facebook.com/notes/pickleball-live-streaming-network/app-delray-beach-open-youtube-playlist-match-list/1673773096143943/)
+
 #### L'affiche officielle du tournoi de pickleball de Delray Beach! 
 La deuxième étape de la tournée de l'APP 2021 est l'Open de pickleball de 60k Delray Beach, organisé par Leigh et Anna Leigh Waters et Steve Kennedy.
 
@@ -115,8 +117,6 @@ Ben Johns vs Zane Navratil
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/cw17tZ9V97E?start=5158" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-
-[APP Delray Beach Open YouTube Playlist Match List](https://www.facebook.com/notes/pickleball-live-streaming-network/app-delray-beach-open-youtube-playlist-match-list/1673773096143943/)
 
 
 # Vendredi 19 mars, Mixte 5.0 19+
