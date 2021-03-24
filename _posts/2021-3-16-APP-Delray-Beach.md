@@ -148,3 +148,12 @@ Jay Devilliers/Patrick Smith vs Ben Johns/Collin Johns
 </div>
 <br>
 
+# Final Double Mixte
+Catherine Parenteau/Steve Deakin vs Ben Johns/Simone Jardim
+
+Ben Johns est incroyable dans ce match, à voir.
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Jm_yYeQbx-c?start=27701" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
