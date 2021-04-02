@@ -69,10 +69,7 @@ categories: Pickleball
 
 Balle officiel : Onix Dura Fast 40
 <br>
-<a href="https://www.pickleballtournaments.com/nd_oncourts.pl?tid=4593&venue=Main" target="_blank" rel="noopener noreferrer">Main Court Assignments</a>
-<br>
-<a href="https://www.facebook.com/groups/1194540214056834/" target="_blank" rel="noopener noreferrer">Pickleball Live Streaming Network (Groupe Facebook)</a>
-
+<a href="https://www.pickleballtournaments.com/nd_oncourts.pl?tid=4593&venue=Main" target="_blank" rel="noopener noreferrer">Affectation des terrains en temps réel</a>
 
 # Calendrier de diffusion en direct
 Samedi 3 avril: Doubles Hommes et Femmes Pro (3:00 PM ET à 9:00 PM ET)
