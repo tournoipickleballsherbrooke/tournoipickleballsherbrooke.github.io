@@ -73,13 +73,13 @@ categories: Pickleball
 <a href="https://www.facebook.com/groups/1194540214056834/" target="_blank" rel="noopener noreferrer">Pickleball Live Streaming Network (Groupe Facebook)</a>
 
 # Calendrier de diffusion en direct
-4/3: Men’s and Women’s Doubles (3:00 PM ET à 9:00 PM ET)
+Samedi 3 avril: Doubles Hommes et Femmes Pro (3:00 PM ET à 9:00 PM ET)
 
-4/4: Mixed Doubles Pro (3:00 PM ET à 9:00 PM ET)
+Dimanche 4 avril: Doubles Mixtes Pro (3:00 PM ET à 9:00 PM ET)
 
 <a href="https://www.espn.com/watch/?type=upcoming&_slug_" target="_blank" rel="noopener noreferrer">Regarder sur ESPN</a>
 
-<a href="https://www.facebook.com/OfficialPPATour/" target="_blank" rel="noopener noreferrer">Regarder sur Facebook: Pro Pickleball Association</a>
+<a href="https://www.facebook.com/OfficialPPATour/" target="_blank" rel="noopener noreferrer">Regarder sur Facebook</a>
 
 <a href="https://www.youtube.com/channel/UCSP6HlrMmRqogym2aHBPHpw" target="_blank" rel="noopener noreferrer">Regarder sur YouTube</a>
 
