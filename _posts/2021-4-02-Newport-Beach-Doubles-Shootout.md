@@ -8,7 +8,7 @@ categories: Pickleball
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v10.0" nonce="nuCryucA"></script>
 
 <div class="videoWrapper">
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/Gmj36A8Sj3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/JSmCd3fJ5Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br>
