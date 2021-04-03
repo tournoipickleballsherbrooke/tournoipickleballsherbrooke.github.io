@@ -51,12 +51,12 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <a href="" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
+                <a href="https://www.pickleballtournaments.com/Tournaments/CA/2021_PPANB/MDO_86.htm" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            <a href="" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
+            <a href="https://www.pickleballtournaments.com/Tournaments/CA/2021_PPANB/WDO_55.htm" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
             </div>
         </td>
         <td>
