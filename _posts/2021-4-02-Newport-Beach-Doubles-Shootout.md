@@ -61,7 +61,7 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center">
-            <a href="" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
+            <a href="https://www.pickleballtournaments.com/Tournaments/CA/2021_PPANB/MXDO_73.htm" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
             </div>
         </td>
     </tr>
