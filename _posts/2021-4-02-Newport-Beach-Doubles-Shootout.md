@@ -34,17 +34,17 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-            Pro Double Hommes - Samedi 3 avril 11:00 AM ET
+            Pro Double Hommes
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            Pro Double Femmes - Samedi 3 avril 3:00 PM ET
+            Pro Double Femmes
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            Pro Mixte - Dimanche 4 avril 11:00 AM ET
+            Pro Mixte
             </div>
         </td>
     </tr>
@@ -61,7 +61,7 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center">
-            <a href="https://www.pickleballtournaments.com/Tournaments/CA/2021_PPANB/MXDO_73.htm" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
+            <a href="https://www.pickleballtournaments.com/Tournaments/CA/2021_PPANB/MXDO8+_152.htm" target="_blank" rel="noopener noreferrer"><img src="/images/bracket.png" width="80"/></a>
             </div>
         </td>
     </tr>
@@ -87,9 +87,18 @@ Dimanche 4 avril: Doubles Mixtes Pro (3:00 PM ET à 9:00 PM ET)
 
 
 
-# MOST INCREDIBLE POINT - 73 Shot Rally
+# INCREDIBLE POINT - 73 Shot Rally
 Among THE BEST #pickleball POINTs YOU WILL EVER 👀SEE😲😲😲. #Facts WATCH this NOW and thank us LATER. #epic #womensdoubles
 <div class="videoWrapper">
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FForTheFansHQ%2Fvideos%2F740524046617132%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
 
+# Highlight - Point Of The Day
+Pro Mixed Doubles Gold Medal Match
+
+Ben Johns/Simone Jardim vs Lindsey Newman Pickleball/Riley Newman
+
+Score: 0-6-2 (Ben Serves To Lindsey)
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/9fdMWL-FxGA?start=17998" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
