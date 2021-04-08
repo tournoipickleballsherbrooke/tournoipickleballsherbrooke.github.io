@@ -12,6 +12,7 @@ categories: Pickleball
 | 10 au 14 Mars | [PPA Red Rock Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4584)|St George, UT
 | 18 au 21 Mars | [APP Delray Beach Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4651)|Delray Beach, FL
 | 2 au 5 Avril| [PPA Newport Beach Doubles Shootout](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4593)|Newport Beach, CA
+| 7 au 11 Avril | [IPF Bainbridge Cup](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4612)|Holly Hill, FL
 | 17 au 24 Avril|[Minto US Open Pickleball Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3679)|Naples, FL
 | 13 au 16 Mai| [APP Cincinnati Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4776)|Middletown, OH
 | 20 au 23 Mai| [PPA Atlanta Georgia Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3361)|Peachtree Corners, GA
