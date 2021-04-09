@@ -18,7 +18,7 @@ categories: Pickleball
 | 20 au 23 Mai| [PPA Atlanta Georgia Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3361)|Peachtree Corners, GA
 | 4 au 6 Juin| [APP Indianapolis Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4880)|Zionsville, IN
 | 10 au 13 Juin| [APP Los Angeles Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4566)|La Habra, CA
-| 16 au 20 Juin| APP SoCal Classic Pickleball Open|Oceanside, CA
+| 16 au 20 Juin| [APP SoCal Classic Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3708)|Oceanside, CA
 | 24 au 27 Juin| [PPA Orange County Cup](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4399)|Newport Beach, CA
 | 1er au 4 Juillet| [APP English Open](https://www.pickleballengland.org/tournaments/)|Nottingham, England
 | 7 au 11 Juillet| [APP Beer City Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3581)|Grand Rapids, MI
