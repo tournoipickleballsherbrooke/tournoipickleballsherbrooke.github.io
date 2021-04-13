@@ -17,17 +17,17 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <a href="https://usopenpickleballchampionship.com/index.html" target="_blank" rel="noopener noreferrer"><img src="/images/usopen_pickleball_logo.png" width="150"/></a>
+                <a href="https://usopenpickleballchampionship.com/index.html" target="_blank" rel="noopener noreferrer"><img src="/images/usopen_pickleball_logo.png" width="200"/></a>
             </div>
         </td>
         <td style="background-color:#000"> 
             <div style="text-align: center">
-                <a href="http://www.pickleballchannel.com/live" target="_blank" rel="noopener noreferrer"><img src="/images/pb-logo-400.png" width="180"/></a>
+                <a href="http://www.pickleballchannel.com/live" target="_blank" rel="noopener noreferrer"><img src="/images/pb-logo-400.png" width="200"/></a>
             </div>
         </td>
         <td>
             <div style="text-align: center">  
-                <a href="https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3679" target="_blank" rel="noopener noreferrer"><img src="/images/pt.png" alt="pickleballtournaments.com" width="60"/></a>
+                <a href="https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3679" target="_blank" rel="noopener noreferrer"><img src="/images/pt.png" alt="pickleballtournaments.com" width="75"/></a>
             </div>
         </td>
     </tr>
@@ -39,24 +39,24 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center">
-            <a href="https://twitter.com/usopenpicklebal" target="_blank" rel="noopener noreferrer"><img src="/images/twitter.png" width="80"/></a>
+            <a href="https://twitter.com/usopenpicklebal" target="_blank" rel="noopener noreferrer"><img src="/images/twitter.png" width="50"/></a>
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            <a href="https://www.instagram.com/usopenpickleball" target="_blank" rel="noopener noreferrer"><img src="/images/instagram.png" width="60"/></a>
+            <a href="https://www.instagram.com/usopenpickleball" target="_blank" rel="noopener noreferrer"><img src="/images/instagram.png" width="50"/></a>
             </div>
         </td>
     </tr>
     <tr>
         <td>
             <div style="text-align: center">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14331.109480978559!2d-81.7644604!3d26.1061851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbb225783591a9389!2sEast%20Naples%20Community%20Park!5e0!3m2!1sfr!2sca!4v1618327353117!5m2!1sfr!2sca" style="border:0;" allowfullscreen="" loading="lazy" width="200" height="100"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14331.109480978559!2d-81.7644604!3d26.1061851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbb225783591a9389!2sEast%20Naples%20Community%20Park!5e0!3m2!1sfr!2sca!4v1618327353117!5m2!1sfr!2sca" style="border:0;" allowfullscreen="" loading="lazy" width="50"></iframe>
             </div>
         </td>
         <td>
             <div style="text-align: center">
-            <a href="https://www.walmart.ca/fr/ip/balles-de-pickleball-optique-extrieur-x-40-franklin-sports-paquet-de-3/6000201061182" target="_blank" rel="noopener noreferrer"><img src="/images/usopenball.jpg" width="100"/></a>
+            <a href="https://www.walmart.ca/fr/ip/balles-de-pickleball-optique-extrieur-x-40-franklin-sports-paquet-de-3/6000201061182" target="_blank" rel="noopener noreferrer"><img src="/images/usopenball.jpg" width="50"/></a>
             </div>
         </td>
         <td style="background-color:#000">
