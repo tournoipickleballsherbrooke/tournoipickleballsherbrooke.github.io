@@ -17,7 +17,7 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <a href="https://usopenpickleballchampionship.com/index.html" target="_blank" rel="noopener noreferrer"><img src="/images/usopen_pickleball_logo.png" width="200"/></a>
+                <a href="https://usopenpickleballchampionship.com/index.html" target="_blank" rel="noopener noreferrer"><img src="/images/usopen_pickleball_logo.png" width="150"/></a>
             </div>
         </td>
         <td style="background-color:#000"> 
@@ -51,7 +51,7 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14331.109480978559!2d-81.7644604!3d26.1061851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbb225783591a9389!2sEast%20Naples%20Community%20Park!5e0!3m2!1sfr!2sca!4v1618327353117!5m2!1sfr!2sca" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14331.109480978559!2d-81.7644604!3d26.1061851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbb225783591a9389!2sEast%20Naples%20Community%20Park!5e0!3m2!1sfr!2sca!4v1618327353117!5m2!1sfr!2sca" style="border:0;" allowfullscreen="" loading="lazy" width="200" height="100"></iframe>
             </div>
         </td>
         <td>
