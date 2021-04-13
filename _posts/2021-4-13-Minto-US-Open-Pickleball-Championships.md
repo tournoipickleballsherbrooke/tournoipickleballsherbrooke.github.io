@@ -56,7 +56,7 @@ categories: Pickleball
         </td>
         <td>
             <div style="text-align: center">
-            <a href="https://www.walmart.ca/fr/ip/balles-de-pickleball-optique-extrieur-x-40-franklin-sports-paquet-de-3/6000201061182" target="_blank" rel="noopener noreferrer"><img src="/images/usopenball.jpg" width="200"/></a>
+            <a href="https://www.walmart.ca/fr/ip/balles-de-pickleball-optique-extrieur-x-40-franklin-sports-paquet-de-3/6000201061182" target="_blank" rel="noopener noreferrer"><img src="/images/usopenball.jpg" width="100"/></a>
             </div>
         </td>
         <td style="background-color:#000">
