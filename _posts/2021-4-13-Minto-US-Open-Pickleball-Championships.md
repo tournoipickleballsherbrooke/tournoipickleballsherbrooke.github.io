@@ -67,6 +67,10 @@ categories: Pickleball
     </tr>
 </table>
 
+<div class="videoWrapper">
 <iframe src="https://drive.google.com/file/d/1lC61ksXw1XaTtpeTSwCv6rIet-gD0_4N/preview" width="640" height="480"></iframe>
+</div>
+
+<br>
 
 <div class="fb-post" data-href="https://www.facebook.com/usopenpickleball/posts/3119449668341397" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/usopenpickleball/posts/3119449668341397" class="fb-xfbml-parse-ignore"><p>Check out this year’s US OPEN event schedule! We can’t wait to show you everything we have in store for a great week of...</p>Publiée par <a href="https://www.facebook.com/usopenpickleball/">Minto US Open Pickleball Championships</a> sur&nbsp;<a href="https://www.facebook.com/usopenpickleball/posts/3119449668341397">Dimanche 11 avril 2021</a></blockquote></div>
