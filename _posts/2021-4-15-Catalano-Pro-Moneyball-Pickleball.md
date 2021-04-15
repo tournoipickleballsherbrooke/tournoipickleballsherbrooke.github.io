@@ -8,7 +8,7 @@ categories: Pickleball
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v10.0" nonce="nuCryucA"></script>
 
 <div class="videoWrapper">
-<div class="fb-post" data-href="https://www.facebook.com/dominic.catalanopickleball/posts/1160677247679340" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/dominic.catalanopickleball/posts/1160677247679340" class="fb-xfbml-parse-ignore"><p>Some spots still open for Catalano’s Pro Moneyball Pickleball at Babcock Ranch!! What better way to tune up for the US...</p>Publiée par <a href="#" role="button">Dominic PB Catalano</a> sur&nbsp;<a href="https://www.facebook.com/dominic.catalanopickleball/posts/1160677247679340">Mercredi 7 avril 2021</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/dominic.catalanopickleball/posts/1160677247679340" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/dominic.catalanopickleball/posts/1160677247679340" class="fb-xfbml-parse-ignore"><p>Some spots still open for Catalano’s Pro Moneyball Pickleball at Babcock Ranch!! What better way to tune up for the US...</p>Publiée par <a href="#" role="button">Dominic PB Catalano</a> sur&nbsp;<a href="https://www.facebook.com/dominic.catalanopickleball">Mercredi 7 avril 2021</a></blockquote></div>
 </div>
 
 <br>
