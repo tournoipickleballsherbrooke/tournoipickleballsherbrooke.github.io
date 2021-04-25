@@ -74,3 +74,23 @@ categories: Pickleball
 <br>
 
 <div class="fb-post" data-href="https://www.facebook.com/usopenpickleball/posts/3119449668341397" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/usopenpickleball/posts/3119449668341397" class="fb-xfbml-parse-ignore"><p>Check out this year’s US OPEN event schedule! We can’t wait to show you everything we have in store for a great week of...</p>Publiée par <a href="https://www.facebook.com/usopenpickleball/">Minto US Open Pickleball Championships</a> sur&nbsp;<a href="https://www.facebook.com/usopenpickleball/posts/3119449668341397">Dimanche 11 avril 2021</a></blockquote></div>
+
+## Mixed 19+ Jennie Davis from Peterborough, ON and Louis-Charles Amyot from Blainville, QC
+<div class="videoWrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fscott.a.golden.7%2Fvideos%2F10224373566262220%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
+
+## Men’s Pro Doubles - Juan Arraya/Ernesto Fajardo vs. AJ Koller/ John Cincola Pickleball
+<div class="videoWrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Favanstarrenburg%2Fvideos%2F10223873148753320%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
+
+## Men Pro Rob Cassidy and Rob Nunnery vs Callan Dawson and DJ Darrian 
+<div class="videoWrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmichelle.esquivel.148%2Fvideos%2F928675724552192%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
+
+## Womens Doubles Catherine Parenteau/Callie Smith vs Leigh Waters/Anna Leigh Waters 
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/SGhM3kvX4Rw?start=6360" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
