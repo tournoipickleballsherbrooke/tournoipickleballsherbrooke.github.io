@@ -19,7 +19,8 @@ categories: Pickleball
 | 4 au 6 Juin| [APP Indianapolis Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4880)|Zionsville, IN
 | 10 au 13 Juin| [APP Los Angeles Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4566)|La Habra, CA
 | 16 au 20 Juin| [APP SoCal Classic Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3708)|Oceanside, CA
-| 24 au 27 Juin| [PPA Orange County Cup](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4399)|Newport Beach, CA
+| 24 au 27 Juin| [Canceller - PPA Orange County Cup](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4399)|Newport Beach, CA
+| 28 Juin au 4 Juillet| [USA Pickleball Newport Beach Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4695)|Newport Beach, CA
 | 1er au 4 Juillet| [APP English Open](https://www.pickleballengland.org/tournaments/)|Nottingham, England
 | 7 au 11 Juillet| [APP Beer City Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3581)|Grand Rapids, MI
 | 29 Juillet au 1er Août| [APP Pacific Northwest Classic](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=3602)|Bend, OR
@@ -27,11 +28,14 @@ categories: Pickleball
 | 10 au 15 Août | [Pickleball Canada National Championship](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4389) |Red Deer, AB
 | 10 au 16 Août| [PPA Rocky Mountain Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4419)|Denver, CO
 | 12 au 15 Août| APP New Jersey Open|Manalapan, NJ
+| 16 au 22 Août| Jigsaw Health Tournament of Champions
 | 1er au 6 Septembre| [PPA New Mexico Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4552)|Albuquerque, NM
 | 2 au 5 Septembre| APP Chicago Pickleball Open|Naperville, IL
-| 9 au 12 Septembre| [PPA Toronto Cup](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4596)|Toronto, ON
+| 9 au 12 Septembre| [Canceller - PPA Toronto Cup - Devient PPA Orlando Cup](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4596)|Toronto, ON
+| 16 au 19 Septembre| APP Atlanta Metro Open
 | 21 au 26 Septembre| [PPA Las Vegas Pickleball Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4658)|Las Vegas, NV
 | 10 au 16 Septembre| [PPA Texas Open](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4601)|Dallas, TX
+| 13 au 17 Septembre| APP Hilton Head Open
 | 21 au 24 Octobre| [PPA Championships](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4602)|Las Vegas, NV
 | 6 au 13 Novembre | [Margaritaville USA Pickleball National Championships](https://usapickleballnationalchampionships.com/event-info/competition-events/) |Indian Wells, CA
 | 9 au 12 Décembre| [PPA Arizona Masters](https://www.pickleballtournaments.com/tournamentinfo.pl?tid=4594)|Phoenix, AZ
