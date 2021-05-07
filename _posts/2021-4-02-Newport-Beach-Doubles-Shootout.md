@@ -86,6 +86,11 @@ Dimanche 4 avril: Doubles Mixtes Pro (3:00 PM ET à 9:00 PM ET)
 <a href="https://www.youtube.com/channel/UCSP6HlrMmRqogym2aHBPHpw" target="_blank" rel="noopener noreferrer">Regarder sur YouTube</a>
 
 
+# Gold Medal Match - Simone Jardim / Lucy Kovalova vs. Callie Smith / Catherine Parenteau PPA Newport
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/mmzJxpIU6eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 # INCREDIBLE POINT - 73 Shot Rally
 Among THE BEST #pickleball POINTs YOU WILL EVER 👀SEE😲😲😲. #Facts WATCH this NOW and thank us LATER. #epic #womensdoubles
