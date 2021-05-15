@@ -65,6 +65,21 @@ categories: Pickleball
             </div>
         </td>
     </tr>
+        <tr>
+        <td>
+            <div style="text-align: center">
+            <a href="https://www.facebook.com/notes/pickleball-live-streaming-network/2021-us-open-pickleball-championships-youtube-playlist-plus/2820428631620028/" target="_blank" rel="noopener noreferrer"><img src="/images/youtube-playlist.jpg" alt="YouTube Playlist Plus" width="175"/></a>
+            </div>
+        </td>
+        <td>
+            <div style="text-align: center">
+            </div>
+        </td>
+        <td>
+            <div style="text-align: center">
+            </div>
+        </td>
+    </tr>
 </table>
 
 <div class="videoWrapper">
@@ -94,3 +109,7 @@ categories: Pickleball
 <div class="videoWrapper">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/SGhM3kvX4Rw?start=6360" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+
+
