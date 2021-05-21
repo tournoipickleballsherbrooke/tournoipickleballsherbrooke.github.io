@@ -22,7 +22,7 @@ categories: Pickleball
         </td>
         <td style="background-color:#000"> 
             <div style="text-align: center">
-                <a href="https://apptour.org/" target="_blank" rel="noopener noreferrer"><img src="/images/APP.png" alt="apptour.org" width="175"/></a>
+                <a href="https://apptour.org/" target="_blank" rel="noopener noreferrer"><img src="/images/app.png" alt="apptour.org" width="175"/></a>
             </div>
         </td>
         <td>
