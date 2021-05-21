@@ -22,7 +22,7 @@ categories: Pickleball
         </td>
         <td style="background-color:#000"> 
             <div style="text-align: center">
-                <a href="https://apptour.org/" target="_blank" rel="noopener noreferrer"><img src="/images/app.png" alt="apptour.org" width="175"/></a>
+                <a href="https://apptour.org/" target="_blank" rel="noopener noreferrer"><img src="/images/APP.png" alt="apptour.org" width="175"/></a>
             </div>
         </td>
         <td>
@@ -67,7 +67,51 @@ categories: Pickleball
     </tr>
 </table>
 
+# Day 2 Mens and Women's Pro & Senior Pro Doubles CC #2
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/GuyE4dhGhkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
+00:00 (partial) Devilliers/Smith vs Lindeman/Roenigk
 
+31:15 Palus/DeCaprio vs Bohnert/Levine
 
+1:21:00 Young/Fajardo vs Frazier/Koller
+
+2:19:25 Devilliers/Smith vs Seckel/Willson
+
+2:49:40 Wilhelm/Patys vs De Vera/Marcos
+
+3:46:40 Thompson/Welsher vs Maier/Robbins
+
+4:27:25 Witsken/Sperling vs Granot/Fleming
+
+5:01:45 Frazier/Koller vs Goldberg/Johnson
+
+5:31:10 Esquivel/Remynse vs Kawamoto/Kawamoto
+
+6:42:55 Nunnery/Cassidy vs Frazier/Koller
+
+8:05:35 Witsken/Sperling vs Granot/Fleming
+
+# 2021 APP CINCINNATI PRO MENS & WOMENS DOUBLES CC #1
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/fI8cBEWYCi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+30:40 Devilliers/Smith vs Frazier/Collier
+
+1:47:50 Franco/Ansboury vs Stratman/Jansen
+
+2:18:30 Cassidy/Nunnery vs Smith/Devilliers
+
+3:44:00 Stratman/Jansen vs Esquivel/Remynse
+
+4:44:50 [Bronze] Esquivel/Remynse vs Kawamoto/Kawamoto
+
+5:39:25 [Gold] Smith/Devilliers vs Cassidy/Nunnery
+
+6:45:45 [Gold] (incomplete) Stratman/Jansen vs Kawamoto/Kawamoto
