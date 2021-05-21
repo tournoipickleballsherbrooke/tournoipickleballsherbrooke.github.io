@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PPA Newport Beach Doubles Shootout - Newport Beach, Californie - 2 au 4 avril 2021
+title: PPA Newport Beach Doubles Shootout
 categories: Pickleball
 ---
 <!-- Code pour les posts facebook -->
@@ -11,13 +11,17 @@ categories: Pickleball
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/JSmCd3fJ5Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/68eb34OKekw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <br>
 
 <table>
     <tr>
         <td>
             <div style="text-align: center">
-                <a href="https://www.ppatour.com/events/doubles-shootout-newport-beach/" target="_blank" rel="noopener noreferrer"><img src="/images/newport-beach-doubles-shootout.png" width="200"/></a>
+                <a href="https://www.ppatour.com/events/doubles-shootout-newport-beach/" target="_blank" rel="noopener noreferrer"><img src="/images/newport-beach-doubles-shootout.png" width="180"/></a>
             </div>
         </td>
         <td> 
