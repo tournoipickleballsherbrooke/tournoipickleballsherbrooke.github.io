@@ -44,8 +44,9 @@ categories: Pickleball
 
 4:52:56 Jay Devilliers/DJ Young vs Adam Stone/Rob Cassidy
 
-
+<div class="videoWrapper">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftheapptour%2Fposts%2F357249605731537&show_text=true&width=500" width="500" height="666" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 # APP SO CAL PICKLEBALL SUMMER CLASSIC MIXED PRO & SENIOR PRO DOUBLES
 
