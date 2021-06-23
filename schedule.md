@@ -8,7 +8,6 @@ permalink: /schedule/
 <a href="https://apptour.org/" target="_blank" rel="noopener noreferrer"><img src="/images/app.png" alt="apptour.com" width="130"/></a>
 <a href="https://www.ppatour.com/" target="_blank" rel="noopener noreferrer"><img src="/images/ppa.png" alt="ppatour.com" width="130"/></a>
 <a href="https://pickleballcanada.org/fr/accueil/" target="_blank" rel="noopener noreferrer"><img src="https://pickleballcanada.org/wp-content/themes/pickleball/images/logoPickleballCanada.png" alt="" width="130"/></a>
-<br>
 <a href="https://pickleball.global/" target="_blank" rel="noopener noreferrer"><img src="https://pickleball.global/templates/beez_20/images/home/header-logo.png" alt="" width="130"/></a>
 <a href="https://ifpickleball.org/" target="_blank" rel="noopener noreferrer"><img src="https://ifpickleball.org/Images/IFPLogoTM.png" alt="" width="130"/></a>
 <a href="https://usapickleball.org/" target="_blank" rel="noopener noreferrer"><img src="https://usapickleball.org/wp-content/uploads/2020/06/USAPA_Logo_Header.png" alt="" width="130"/></a>
