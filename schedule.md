@@ -46,7 +46,7 @@ permalink: /schedule/
 | September 10-16| PPA Texas Open
 | September 13-17| APP Hilton Head Open
 | October 21-24| PPA Championships
-| November 6-13 | Margaritaville USA Pickleball National Championships
+| December 6-14 | Margaritaville USA Pickleball National Championships
 | December 9-12 | PPA Arizona Masters
 | December 9-12| APP World Pickleball Open
 
