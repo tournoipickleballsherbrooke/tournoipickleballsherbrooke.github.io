@@ -16,7 +16,7 @@ categories: Pickleball
         </td>
         <td> 
             <div style="text-align: center">
-                <a href="https://usapickleball.org/" target="_blank" rel="noopener noreferrer"><img src="/images/usapa.png" alt="ppatour.com" width="130"/></a>
+                <a href="https://usapickleball.org/" target="_blank" rel="noopener noreferrer"><img src="/images/USAPA.png" alt="" width="130"/></a>
             </div>
         </td>
         <td>
