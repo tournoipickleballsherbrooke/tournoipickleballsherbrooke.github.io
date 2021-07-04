@@ -11,7 +11,7 @@ categories: Pickleball
     <tr>
         <td>
             <div style="text-align: center">
-                <a href="http://newportbeachpickleballevents.com/event/usa-pickleball-newport-beach-championships-national-qualifier/" target="_blank" rel="noopener noreferrer"><img src="http://newportbeachpickleballevents.com/wp-content/uploads/2021/01/Championships-1.png" width="170"/></a>
+                <a href="http://newportbeachpickleballevents.com/event/usa-pickleball-newport-beach-championships-national-qualifier/" target="_blank" rel="noopener noreferrer"><img src="/images/championships-1.png" width="170"/></a>
             </div>
         </td>
         <td> 
