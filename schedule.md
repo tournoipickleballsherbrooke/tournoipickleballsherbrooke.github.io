@@ -32,6 +32,7 @@ permalink: /schedule/
 | June 28-4 | USA Pickleball Newport Beach Championships
 | July 1-4| APP English Open
 | July 7-11| APP Beer City Open
+| July 17| Margaritaville Underground Invitational
 | July 29-1| APP Pacific Northwest Classic
 | August 5-8| PPA Takeya Showcase
 | August 10-15 | Pickleball Canada National Championship
