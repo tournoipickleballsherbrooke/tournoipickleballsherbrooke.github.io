@@ -27,6 +27,10 @@ categories: Pickleball
     </tr>
 </table>
 
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/EPnp0gFcjoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Pro Singles Matches
 
 <div class="videoWrapper">
