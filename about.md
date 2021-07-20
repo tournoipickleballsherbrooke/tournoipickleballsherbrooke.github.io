@@ -16,6 +16,4 @@ Bag - Selkirk 2021 Team Backpack Red
 
 Grip (absorb sweat) - Tourna Grip
 
-Lead Tape (increase paddle weight) - Tourna Lead Tape
-
 Balls - Franklin X-40 Outdoor / Onix Dura Fast 40 Outdoor
