@@ -33,6 +33,7 @@ permalink: /schedule/
 | July 1-4| APP English Open
 | July 7-11| APP Beer City Open
 | July 17| Margaritaville Underground Invitational
+| July 23-25| Seattle Metro Pickleball Classic
 | July 29-1| APP Pacific Northwest Classic
 | August 5-8| PPA Takeya Showcase
 | August 10-15 | Pickleball Canada National Championship
